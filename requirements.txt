@@ -1,0 +1,10 @@
+# pandas included in tabpy
+# scikit-learn included in tabpy
+statsmodels==0.10.2
+# textblob included in tabpy
+vaderSentiment
+reverse_geocoder 
+geopy
+h3
+# nltk included in tabpy
+tabpy
